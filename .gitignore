@@ -1,0 +1,17 @@
+# The crossover's own BeamNG user folder (beamng/scripts/common.ps1, Get-BeamngUserRoot)
+/bng-userfolder/
+
+# Minecraft dev runs (worlds, logs, options) and Gradle state; beamng/.gitignore covers the rest
+run/
+.gradle/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor tool caches
+.impeccable/
