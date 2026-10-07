@@ -2,7 +2,7 @@
 
 Drive real BeamNG.drive cars in Minecraft.
 
-![A BeamNG car crashed into a brick wall in a Minecraft world, its front crumpled](beamng/docs/img/native-crash.png)
+![A BeamNG car drives into a brick wall in a Minecraft world and its front crumples](beamng/docs/img/crash.gif)
 
 BeamNG runs the car in the background: physics, engine, gearbox, tyres and damage. Minecraft
 draws it with the car's real model, bent every frame to match BeamNG's physics, so when you hit a
